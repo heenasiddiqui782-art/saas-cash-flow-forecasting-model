@@ -24,21 +24,6 @@ A walkthrough of the model — from raw data and assumptions, through the cash f
 
 ---
 
-## Screenshots
-
-| | |
-|---|---|
-| **Executive Dashboard** — KPI cards, trend charts, alert banners | ![Dashboard](./screenshots/dashboard.png) |
-| **Cash Flow Forecast** — FY2026 actuals + FY2027 monthly forecast with liquidity tiers | ![Cash Flow](./screenshots/cash-flow-forecast.png) |
-| **Budget vs. Actual** — department-level variance heatmap | ![Budget Variance](./screenshots/budget-variance-heatmap.png) |
-| **Scenario Analysis** — Best / Base / Worst case comparison | ![Scenario Analysis](./screenshots/scenario-analysis.png) |
-| **AR / AP Aging** — aging buckets, DSO/DPO, cash conversion cycle | ![AR AP Aging](./screenshots/ar-ap-aging.png) |
-| **KPI Summary** — executive KPI matrix with formulas, targets, interpretation | ![KPI Summary](./screenshots/kpi-summary.png) |
-
-
-
----
-
 ## 1. Business Problem
 
 Profitable-looking companies run out of cash all the time — revenue on the income statement doesn't mean cash in the bank, especially for a subscription business with annual billing, Net 30/45 customer terms, and lumpy CapEx. This project builds the tool an FP&A analyst would actually use to see that gap coming: a rolling cash forecast, a department-level budget to hold spend accountable, and an early-warning system for liquidity shortfalls — before they become a crisis for the executive team.
